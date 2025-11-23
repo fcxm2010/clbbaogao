@@ -7,7 +7,7 @@ const Header: React.FC = () => {
       {/* Background Image with Overlay */}
       <div className="absolute inset-0 z-0">
         <img 
-          src="/img/changlangbahangpai1.webp" 
+          src="./img/changlangbahangpai1.webp" 
           alt="长浪坝航拍" 
           className="w-full h-full object-cover"
         />
