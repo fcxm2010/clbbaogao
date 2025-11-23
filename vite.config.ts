@@ -5,7 +5,7 @@ import react from '@vitejs/plugin-react';
 export default defineConfig(({ mode }) => {
     const env = loadEnv(mode, '.', '');
     return {
-      base: '/clbbaogao/', // GitHub Pages 部署路径，根据实际仓库名修改
+      base: '/', // Cloudflare Pages 部署在根路径
       server: {
         port: 3000,
         host: '0.0.0.0',
