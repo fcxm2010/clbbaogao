@@ -78,7 +78,7 @@ const Overview: React.FC = () => {
              </div>
 
              <div className="bg-stone-800 p-6 rounded-2xl shadow-md text-white flex flex-col justify-center items-center text-center relative overflow-hidden group">
-                 <img src="https://picsum.photos/id/237/400/300" className="absolute inset-0 w-full h-full object-cover opacity-20 group-hover:opacity-30 transition-opacity" alt="Farm" />
+                 <img src="/img/changlangbahangpai1.webp" className="absolute inset-0 w-full h-full object-cover opacity-20 group-hover:opacity-30 transition-opacity" alt="长浪坝航拍" />
                  <div className="relative z-10">
                     <h3 className="text-2xl font-bold mb-2">3834户</h3>
                     <p className="text-stone-300 text-sm">现有农户</p>
